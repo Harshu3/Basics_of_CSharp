@@ -58,7 +58,7 @@ namespace BasicCSharpPrograms
                     ReferenceType.PassReferenceType();
                     break;
                 case 9:
-                    Student1.StudentDataManulation();
+                    Student.StudentDataManupulation();
                     break;
                 case 10:
                     StudentDetails.StudentAge();
